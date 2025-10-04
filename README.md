@@ -1,4 +1,4 @@
-# HW1-ICA
+# HW1-ICA: WHITE QUALITY
 EQUIPE:
 - Marina Vasques Rodrigues (496500): Descrição dos dados e Análise Univariada Incondicional
 - Fábio Gabriel Esteves Ivo Gomes (510514): Análise Multivariada Incondicional
