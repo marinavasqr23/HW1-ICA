@@ -6,3 +6,4 @@ EQUIPE:
 - Fábio Agostinho da Silva Nascimento Filho (538521): Análise Bivariada Incondicional
 
   
+LINK OVERLEAF: https://www.overleaf.com/read/cvxtzhhvjbkg#dcad73
